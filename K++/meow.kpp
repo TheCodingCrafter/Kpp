@@ -1,0 +1,5 @@
+#include <iostream>
+
+func void prt(int m)
+    std::cout << m << std::endl
+end
